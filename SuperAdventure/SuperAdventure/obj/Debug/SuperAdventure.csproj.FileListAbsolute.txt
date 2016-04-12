@@ -11,3 +11,11 @@ c:\users\cory\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventur
 C:\Users\Cory\Documents\GitHub\SimpleRPG\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe.config
 C:\Users\Cory\Documents\GitHub\SimpleRPG\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.exe
 C:\Users\Cory\Documents\GitHub\SimpleRPG\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.pdb
+C:\Users\Cory\Documents\GitHub\SimpleRPG\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe
+C:\Users\Cory\Documents\GitHub\SimpleRPG\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.pdb
+C:\Users\Cory\Documents\GitHub\SimpleRPG\SuperAdventure\SuperAdventure\bin\Debug\Engine.dll
+C:\Users\Cory\Documents\GitHub\SimpleRPG\SuperAdventure\SuperAdventure\bin\Debug\Engine.pdb
+C:\Users\Cory\Documents\GitHub\SimpleRPG\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csprojResolveAssemblyReference.cache
+C:\Users\Cory\Documents\GitHub\SimpleRPG\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.Properties.Resources.resources
+C:\Users\Cory\Documents\GitHub\SimpleRPG\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.SuperAdventure.resources
+C:\Users\Cory\Documents\GitHub\SimpleRPG\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.GenerateResource.Cache
